@@ -272,7 +272,7 @@ If you want to add a new translation, read this [document](./docs/translation.md
 [Buy Me a Coffee](https://www.buymeacoffee.com/yidadaa)
 
 ## Special Thanks
-
+赞助声明✨✨✨，非常感谢！ 本项目由VTEXS的「开源项目免费VPS计划」提供算力支持。感谢VTEXS对开源社区的支持！
 ### Sponsor
 
 > 仅列出捐赠金额 >= 100RMB 的用户。
